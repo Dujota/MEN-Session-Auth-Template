@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed on your machine:
 To clone this repository, open your terminal and run:
 
 ```bash
-git clone https://github.com/SEB-1-Bahrain/instructor-men-auth.git men-stack-starter-template
+git clone https://github.com/Dujota/MEN-Session-Auth-Template.git men-stack-starter-template
 ```
 
 ## Installation
